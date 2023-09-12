@@ -25,7 +25,7 @@ For more details and others, please refer to each project's respective README fi
 
 Feel free to get in touch with me through the following platforms:
 
-- [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
+- [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-karaka%C5%9F-66b50b272)
 - [Email](tugrulmertkarakas@gmail.com)
 
 ## Contribution
